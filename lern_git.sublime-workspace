@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"BST",
+				"BSTp"
+			],
+			[
+				"ma",
+				"makeBST"
+			],
+			[
+				"p",
+				"p"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wangjuntong/learn_git/lern_git.html",
+		"/Users/wangjuntong/Desktop/离散上机题/lisan.cpp",
+		"/Users/wangjuntong/Desktop/main.cpp",
+		"/Users/wangjuntong/Desktop/fag.cpp",
+		"/Users/wangjuntong/Desktop/数据结构作业/3栈和队列/1.cpp",
+		"/Users/wangjuntong/Desktop/数据结构作业/2线性表/3.cpp",
+		"/Users/wangjuntong/Desktop/数据结构作业/2线性表/2.cpp",
+		"/Users/wangjuntong/Desktop/数据结构作业/2线性表/1.cpp",
+		"/Users/wangjuntong/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6b11a6c18a822752d04c34feb4671a2b/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/func.cpp",
+		"/Users/wangjuntong/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6b11a6c18a822752d04c34feb4671a2b/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/func.h",
+		"/Users/wangjuntong/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6b11a6c18a822752d04c34feb4671a2b/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/lab(1).cpp",
+		"/Users/wangjuntong/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6b11a6c18a822752d04c34feb4671a2b/Message/MessageTemp/8bad148a372b0768c8c81e0bfaad4fda/File/phoneNumber.java",
+		"/Users/wangjuntong/Desktop/2022图森未来杯标程/2022图森未来杯标程/热身赛/A_医疗队列.cpp",
+		"/Users/wangjuntong/Desktop/王俊童实验5/王俊童子任务3.c",
+		"/Users/wangjuntong/Downloads/GDP预测.py",
+		"/Users/wangjuntong/Downloads/arma_gdp-master/arma_gdp.ipynb",
+		"/Users/wangjuntong/Desktop/22秋作业/实验二/Lab2_run.cpp",
+		"/Users/wangjuntong/Desktop/22秋作业/实验二/Lab2_fun.cpp",
+		"/Users/wangjuntong/Desktop/22秋作业/program_practice_2/main.cpp",
+		"/Users/wangjuntong/Desktop/22秋作业/program_practice_2/Lab2_run.h",
+		"/Users/wangjuntong/Desktop/22秋作业/program_practice_2/Lab2_run.cpp",
+		"/Users/wangjuntong/Desktop/22秋作业/program_practice_2/Lab2_fun.h",
+		"/Users/wangjuntong/Desktop/22秋作业/program_practice_2/Lab2_fun.cpp",
+		"/Users/wangjuntong/Desktop/图文件和源代码/java_concurrency/src/main/java/com/seaboat/thread/AtomicIntegerArrayDemo.java",
+		"/Users/wangjuntong/Desktop/程序设计分组训练-实验五/实验五/项目负责人-子任务3/Lab5.cpp",
+		"/private/var/folders/y_/40gpvl6x59n7r3mtrb59nrkw0000gn/T/BetterZip临时文件夹.j6RrmC/BetterZip临时文件夹.EiTMZx/实验二/Lab2.cpp",
+		"/private/var/folders/y_/40gpvl6x59n7r3mtrb59nrkw0000gn/T/BetterZip临时文件夹.j6RrmC/BetterZip临时文件夹.AFlGQR/实验二/Lab2_fun.cpp",
+		"/private/var/folders/y_/40gpvl6x59n7r3mtrb59nrkw0000gn/T/BetterZip临时文件夹.j6RrmC/BetterZip临时文件夹.e5j6PP/实验二/Lab2_fun.h",
+		"/private/var/folders/y_/40gpvl6x59n7r3mtrb59nrkw0000gn/T/BetterZip临时文件夹.j6RrmC/BetterZip临时文件夹.BreeZ2/实验二/Lab2_run.h",
+		"/private/var/folders/y_/40gpvl6x59n7r3mtrb59nrkw0000gn/T/BetterZip临时文件夹.j6RrmC/BetterZip临时文件夹.9faHfr/实验二/Lab2_run.cpp",
+		"/Users/wangjuntong/Desktop/B80531(1)/code.ipynb",
+		"/Users/wangjuntong/Desktop/LCA 树链剖分 线段树合并 平衡树-2/线段树合并.cpp",
+		"/Users/wangjuntong/Desktop/LCA 树链剖分 线段树合并 平衡树-2/文艺平衡树.cpp",
+		"/Users/wangjuntong/Desktop/LCA 树链剖分 线段树合并 平衡树-2/树链剖分.cpp",
+		"/Users/wangjuntong/Desktop/LCA 树链剖分 线段树合并 平衡树-2/普通平衡树.cpp",
+		"/Users/wangjuntong/Desktop/LCA 树链剖分 线段树合并 平衡树-2/另类差分.cpp",
+		"/Users/wangjuntong/Desktop/词频/cp.c",
+		"/Users/wangjuntong/Desktop/day1资料/02-ДњТы/day01_jupyter_demo.ipynb",
+		"/Users/wangjuntong/Desktop/程序包/神经网络图像分类代码.txt",
+		"/Users/wangjuntong/Desktop/程序包/时间序列模型ARIMA的讲解与matlab代码实现（含多个实例）/ARIMA（单独的实例）/ARIMA.m"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lern_git.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
